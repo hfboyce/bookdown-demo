@@ -1,7 +1,5 @@
-# Applications
+# Sleep {Sleep}
 
-Some _significant_ applications are demonstrated in this chapter.
+I love sleep. I don't get enough of it. 
 
-## Example one
-
-## Example two
+Case closed
